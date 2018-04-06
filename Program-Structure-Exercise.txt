@@ -1,15 +1,16 @@
-#C Sharp Program Structure - Video 2
-**1. Playing Around:** In the program we worked on together, remove the Console.ReadKey() line and run the program. 
+C# Sharp Program Structure - Video 2
+
+1. Playing Around: In the program we worked on together, remove the Console.ReadKey() line and run the program. 
                    What happened?
 
 
-**2. Playing Around:** Remove the using System statement at the top. Review the errors you get. Do you see why it is 
+2. Playing Around: Remove the using System statement at the top. Review the errors you get. Do you see why it is 
                    important to let the .NET runtime know that we are using the System class and its member Write() 
                    both of which are contained in the System namespace?
 
 
-**3. Action:** Go read about or watch another introductory video on C#. Go find a free book online that teaches C#. Often 
+3. Action: Go read about or watch another introductory video on C#. Go find a free book online that teaches C#. Often 
            times there are Github books that you can use, pdf versions of books online, etc.
 
 
-**4. Action:** Go talk to a friend, family member, your dog, or type in a file on your computer about what you learned today!
+4. Action: Go talk to a friend, family member, your dog, or type in a file on your computer about what you learned today!
